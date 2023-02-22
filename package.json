@@ -10,5 +10,10 @@
   "license": "ISC",
   "dependencies": {
     "tes1": "github:soker90/test1"
+  },
+  "devDependencies": {
+    "@telefonica/estadio-infinito-common": "github:Telefonica/estadio-infinito-common",
+    "install": "^0.13.0",
+    "npm": "^9.5.0"
   }
 }
